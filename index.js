@@ -1,5 +1,5 @@
 // alert(`Hello World`);
-var firstName = "Folajimi";
+var firstName = "Folajimi,";
 var surname = "Ayodele";
 var height = "5`11";
 var country = "Nigeria";
